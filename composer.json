@@ -1,0 +1,18 @@
+{
+    "name": "absea/gmmrr",
+    "description": "Gerards mighty morphing router ranger",
+    "authors": [
+        {
+            "name": "Gerard Munoz",
+            "email": "grdmunoz@yahoo.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.23"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\":"app"
+        }
+    }
+}
